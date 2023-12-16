@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:IranYekan;
+    src: url(../../public/fonts/woff/IRANYekanWebRegular.woff) format('woff');
+  }
+
+  *{
+    font-family: 'IranYekan' , sans-serif !important;
+  }
+
+  
